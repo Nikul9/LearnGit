@@ -1,5 +1,5 @@
 const nikul = () => {
-    var x = 5
+    
     console.log("nikul");
 } 
 const jeck  = () => {
@@ -7,6 +7,6 @@ const jeck  = () => {
     console.log("jeasd");
 }
 function asd () {
-    console.log('Hello');
+    var y = 9
     console.log("NIKUL");
 }
